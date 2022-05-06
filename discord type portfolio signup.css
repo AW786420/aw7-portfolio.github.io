@@ -900,11 +900,11 @@ footer{
     }
     #suwg-link{
         width: max-content;
-        padding: 0.5vh 15vw;
+        padding: 1vh 15vw;
         background-color: white;
         color: black;
         font-family: roboto-regular;
-        border-radius: 200px;
+        border-radius: 10px;
         text-decoration: none;
         margin-top: 2vh;
         box-shadow: 0px 4px 4px rgba(0, 0, 0,0.25);
